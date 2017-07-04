@@ -74,6 +74,7 @@ use IPython from source. You need to checkout the remote 5.x branch. If you are
 using git the following should work:
 
   $ git fetch origin
+  
   $ git checkout -b origin/5.x
 
 If you encounter this error message with a regular install of IPython, then you
